@@ -1,0 +1,23 @@
+body {
+  margin-left: 100px;
+  margin-right: 100px;
+  background: cyan;
+}
+
+.headimg{
+  text-align: center;
+}
+
+#carouselExampleIndicators{
+  margin-top: 10px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+#news {
+  margin-top: 10px;
+}
+
+.about {
+  margin: 0 auto;
+}
